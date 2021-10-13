@@ -1,7 +1,7 @@
 # Physics Tutorials
 MATLAB scripts and other things to get your head around Physics lab reports.
 
-### Useful Material Online
+## Useful Material Online
 * [sample MATLAB script](https://github.com/RiboRings/PhysicsTutorials/blob/main/readme_good_labreports.mlx)
 * [How to Solve it](https://en.wikipedia.org/wiki/How_to_Solve_It) by G. Polya
 * [MATLAB courses](https://matlabacademy.mathworks.com/)
